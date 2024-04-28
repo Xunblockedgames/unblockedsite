@@ -28,7 +28,7 @@
   </style>
 </head>
 <body>
-  <div class="gameBox" onclick="openGame('https://game1.example.com')">
+  <div class="Flappy-Bird" onclick="openGame('https://game1.example.com')">
     <img class="gameImage" src="path/to/game1-image.jpg" alt="Game 1">
   </div>
   <div class="gameBox" onclick="openGame('https://game2.example.com')">
